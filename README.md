@@ -101,3 +101,6 @@ Execute the program
 # OUPUT:
 ![Output](./output.png)
 ![validator](./validator.png)
+
+# RESULT:
+        The program to create timetable is obtained.
